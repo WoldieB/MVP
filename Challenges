@@ -1,0 +1,19 @@
+Technical Challenge
+     The most difficult technical challenge encountered in this second week of development was implementing the functionality for handling multiple product quantities in the shopping cart.
+Initially, the system was designed to only allow the addition of one unit of each product to the cart. However, as the project progressed, it became apparent that customers may want to purchase multiple quantities of the same product. 
+This required a significant reworking of the ShoppingCart class and the logic for updating the cart contents.
+
+To address this challenge, I had to refactor the existing code to allow for storing and updating quantities of each product in the cart. This involved modifying the data structure used to store cart items, updating the addProduct() and 
+removeProduct() methods to handle quantity changes, and ensuring that the total price calculation accurately reflected the quantity of each item. Additionally, I had to implement validation checks to prevent negative quantities or invalid inputs from being entered by the user.
+
+Overall, overcoming this technical challenge required careful planning, attention to detail, and thorough testing to ensure that the updated functionality worked seamlessly and provided a smooth shopping experience for customers.
+
+Non-Technical Challenge
+The most difficult non-technical challenge faced in this second week was managing time effectively to balance project development with other commitments and responsibilities. As the project deadline approached and the complexity of the tasks increased,
+it became challenging to allocate sufficient time and focus to make meaningful progress while also meeting other work and personal obligations.
+
+To address this challenge, I had to prioritize tasks, create a detailed schedule with specific milestones and deadlines, and allocate dedicated blocks of time each day for working on the project. This required effective time management skills, discipline, and the ability to stay organized and focused amidst competing demands.
+
+Additionally, communication with team members and stakeholders was crucial in managing expectations and ensuring that progress updates were provided regularly. Clear and transparent communication helped in setting realistic goals, identifying potential roadblocks, and seeking support or guidance when needed.
+
+Overall, overcoming this non-technical challenge required a combination of time management strategies, effective communication, and self-discipline to stay on track and deliver results while juggling multiple responsibilities.
